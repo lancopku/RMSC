@@ -1,4 +1,6 @@
 Description of the dataset.
+    The reviews and music styles of this dataset are in Chinese.
+    
     For the review-driven multi-label music style classification  task, we build a new dataset which contains over 7,172 samples.
     We define an album as a data sample in the data set.On average, each sample contains 2.2 styles and 40 reviews, each review has 12.4 words.Each sample includes a music title,
     a set of human annotated styles, and associated reviews.
